@@ -1,9 +1,9 @@
 {
   "dependencies": {
     "com.mike_kuharuk.time_provider_package": {
-      "version": "file:D:/MikeKuharuk/Projects/Packages/TimeProviderPackage",
+      "version": "file:TimeProviderPackage",
       "depth": 0,
-      "source": "local",
+      "source": "embedded",
       "dependencies": {}
     },
     "com.unity.2d.animation": {
